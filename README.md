@@ -15,3 +15,14 @@ Installing the mod is quite simple, though it does relies on BepInEx, and Harmon
 5 Paste the DifficultyMod.dll inside here (the plugins folder)
 
 6 Start the game, and see if it works, it should. 
+
+
+# What does this mod even does, and why was it created
+First off, it makes enemies take two actions instead of one, making the game quite a bit harder, and more interesting, at least for me. 
+
+I mostly created it since this game hasnt been really modded before, and wanted to see if it was possible, and if yes, how hard. Note that I am new at C#, so many of this was done by just looking at forum posts and such, so I can try to fix some issues, but since the mod is simple, I hope there should not be any other.
+
+Lastly, should there be any new mods, either by me or someone else, they may or may not work together, though if it does not modifies handleTurn() or createWave() it should be compatible.
+
+#Future changes to this mod
+I might modify some of the enemies turn actions/order, or make some changes to enemies in general, but for now, it's only the two actions. 
