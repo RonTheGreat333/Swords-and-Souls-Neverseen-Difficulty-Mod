@@ -24,5 +24,5 @@ I mostly created it since this game hasnt been really modded before, and wanted 
 
 Lastly, should there be any new mods, either by me or someone else, they may or may not work together, though if it does not modifies handleTurn() or createWave() it should be compatible.
 
-#Future changes to this mod
+Future changes to this mod
 I might modify some of the enemies turn actions/order, or make some changes to enemies in general, but for now, it's only the two actions. 
