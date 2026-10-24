@@ -4,6 +4,9 @@ using Combat;
 using HarmonyLib;
 using System;
 
+//This is the source code, you don't actually need this for the mod to work
+//Have fun seeing my (propably) unoptimized code
+
 namespace DifficultyMod
 {
     [BepInPlugin("example.difficultymod", "Difficulty Mod", "1.0.0")]
